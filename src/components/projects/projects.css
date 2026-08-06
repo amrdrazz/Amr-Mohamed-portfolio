@@ -29,6 +29,10 @@
     margin-bottom: 15px;
 }
 
+.projects_container .portfolio_item .portfolio_item_btns a{
+    text-align: center;
+}
+
 /* Responsive */
 
 @media screen and (max-width: 1024px) {
