@@ -4,7 +4,7 @@ import "./projects.css";
 import IMG1 from "../../assets/amr-market.png";
 import IMG2 from "../../assets/coursivo.png";
 import IMG3 from "../../assets/ramadan-countdown.png";
-import IMG4 from "../../assets/portfolio4.jpg";
+import IMG4 from "../../assets/prayer-times.jpg";
 import IMG5 from "../../assets/portfolio5.png";
 import IMG6 from "../../assets/portfolio6.jpg";
 
