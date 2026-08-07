@@ -33,9 +33,9 @@ const portfolioData = [
   {
     id: 4,
     image: IMG4,
-    title: "Portfolio Item 4",
-    github: "https://github.com/project4",
-    demo: "https://demo4.com",
+    title: "Prayer Times",
+    github: "https://github.com/amrdrazz/Prayer-Times",
+    demo: "https://prayer-times-five-inky.vercel.app/",
   },
   {
     id: 5,
